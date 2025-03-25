@@ -14,6 +14,30 @@ My site is mainly focused on frontend. This means that there is no greater funct
 - React
 - Javascript
 
+## Installation and setup
+
+To run this project locally, follow these steps:
+
+1.  **Clone the repository:**
+
+    ```bash
+    gh repo clone FLaMeREVENGE/phyrexia_REACT_project-tutorial
+    ```
+
+2.  **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3.  **Start the application:**
+
+    ```bash
+    npm start
+    ```
+
+    The application should be available at `http://localhost:3000` in your browser.
+
 # My Portfolio :smiling_imp:
 ### [Behance](https://www.behance.net/KarolKomorowski) :computer:
 
